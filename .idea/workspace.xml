@@ -2,60 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e23efb7-9266-4af5-b6a9-f9a497c902b0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/css/app.517a58a1.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/app.517a58a1.css" afterPath="$PROJECT_DIR$/vue-SocialApp/css/app.517a58a1.css" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-05ad8398.8a22b1c2.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-05ad8398.8a22b1c2.css" afterPath="$PROJECT_DIR$/vue-SocialApp/css/chunk-05ad8398.8a22b1c2.css" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-10aa0640.ac974eef.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-10aa0640.ac974eef.css" afterPath="$PROJECT_DIR$/vue-SocialApp/css/chunk-10aa0640.ac974eef.css" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-164a3950.42fe850b.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-164a3950.42fe850b.css" afterPath="$PROJECT_DIR$/vue-SocialApp/css/chunk-164a3950.42fe850b.css" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-60a06d1a.1915ce2f.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-60a06d1a.1915ce2f.css" afterPath="$PROJECT_DIR$/vue-SocialApp/css/chunk-60a06d1a.1915ce2f.css" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-e51d105a.d2e28979.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-e51d105a.d2e28979.css" afterPath="$PROJECT_DIR$/vue-SocialApp/css/chunk-e51d105a.d2e28979.css" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-vendors.7406ac61.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-vendors.7406ac61.css" afterPath="$PROJECT_DIR$/vue-SocialApp/css/chunk-vendors.7406ac61.css" />
-      <change beforePath="$PROJECT_DIR$/js/app.8ed52100.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/app.8ed52100.js" afterPath="$PROJECT_DIR$/vue-SocialApp/js/app.8ed52100.js" />
-      <change beforePath="$PROJECT_DIR$/js/app.8ed52100.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/app.8ed52100.js.map" afterPath="$PROJECT_DIR$/vue-SocialApp/js/app.8ed52100.js.map" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-05ad8398.3deea738.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-05ad8398.3deea738.js" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-05ad8398.3deea738.js" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-05ad8398.3deea738.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-05ad8398.3deea738.js.map" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-05ad8398.3deea738.js.map" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-10aa0640.60cd3ec7.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-10aa0640.60cd3ec7.js" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-10aa0640.60cd3ec7.js" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-10aa0640.60cd3ec7.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-10aa0640.60cd3ec7.js.map" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-10aa0640.60cd3ec7.js.map" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-164a3950.0f5880b5.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-164a3950.0f5880b5.js" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-164a3950.0f5880b5.js" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-164a3950.0f5880b5.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-164a3950.0f5880b5.js.map" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-164a3950.0f5880b5.js.map" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2d0dd86e.20164e04.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2d0dd86e.20164e04.js" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-2d0dd86e.20164e04.js" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2d0dd86e.20164e04.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2d0dd86e.20164e04.js.map" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-2d0dd86e.20164e04.js.map" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2d2378c4.6dd2cbef.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2d2378c4.6dd2cbef.js" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-2d2378c4.6dd2cbef.js" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2d2378c4.6dd2cbef.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2d2378c4.6dd2cbef.js.map" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-2d2378c4.6dd2cbef.js.map" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-46ea620e.69663252.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-46ea620e.69663252.js" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-46ea620e.69663252.js" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-46ea620e.69663252.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-46ea620e.69663252.js.map" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-46ea620e.69663252.js.map" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-60a06d1a.812687f9.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-60a06d1a.812687f9.js" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-60a06d1a.812687f9.js" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-60a06d1a.812687f9.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-60a06d1a.812687f9.js.map" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-60a06d1a.812687f9.js.map" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-e51d105a.8f0d97d5.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-e51d105a.8f0d97d5.js" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-e51d105a.8f0d97d5.js" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-e51d105a.8f0d97d5.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-e51d105a.8f0d97d5.js.map" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-e51d105a.8f0d97d5.js.map" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.a910fec8.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.a910fec8.js" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-vendors.a910fec8.js" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.a910fec8.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.a910fec8.js.map" afterPath="$PROJECT_DIR$/vue-SocialApp/js/chunk-vendors.a910fec8.js.map" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -116,6 +63,11 @@
               <item name="yinMrsir.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="yinMrsir.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="yinMrsir.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yinMrsir.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="vue-SocialApp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -158,24 +110,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553837123375</updated>
-      <workItem from="1553837125542" duration="42000" />
+      <workItem from="1553837125542" duration="206000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42000" />
+    <option name="totallyTimeSpent" value="206000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
