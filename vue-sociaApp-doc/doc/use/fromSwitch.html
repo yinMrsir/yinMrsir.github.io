@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Footer · GitBook</title>
+        <title>FromSwitch · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -57,8 +57,10 @@
     <link rel="shortcut icon" href="../../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="navtab.html" />
+    <link rel="next" href="fromSelect.html" />
     
+    
+    <link rel="prev" href="fromInput.html" />
     
 
     </head>
@@ -114,7 +116,7 @@
             <ul class="articles">
                 
     
-        <li class="chapter active" data-level="1.2.1" data-path="footer.html">
+        <li class="chapter " data-level="1.2.1" data-path="footer.html">
             
                 <a href="footer.html">
             
@@ -153,7 +155,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.2.4" data-path="fromSwitch.html">
+        <li class="chapter active" data-level="1.2.4" data-path="fromSwitch.html">
             
                 <a href="fromSwitch.html">
             
@@ -214,7 +216,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="../.." >Footer</a>
+        <a href="../.." >FromSwitch</a>
     </h1>
 </div>
 
@@ -229,40 +231,48 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="footer">Footer</h1>
+                                <h1 id="fromswitch">FromSwitch</h1>
 <h2 id="&#x5F15;&#x7528;&#x7EC4;&#x4EF6;">&#x5F15;&#x7528;&#x7EC4;&#x4EF6;</h2>
-<pre><code>import {Footer} from &apos;@/components&apos;
+<pre><code>import {FromSwitch} from &apos;@/components&apos;
 
 export default {
     components: {
-      Footer
+      FromSwitch
     }
 }
-</code></pre><h2 id="&#x4F7F;&#x7528;">&#x4F7F;&#x7528;</h2>
-<p>&#x8BE5;&#x7EC4;&#x4EF6;&#x6570;&#x636E;&#x76F4;&#x63A5;&#x5728;&#x8DEF;&#x7531;&#x4E2D;&#x83B7;&#x53D6;&#xFF0C;&#x5E76;&#x786E;&#x4FDD;&#x6309;&#x4EE5;&#x4E0B;&#x53C2;&#x6570;&#x4F20;&#x9012;</p>
-<pre><code>export default new Router({
-  routes: [
-    {
-      path: &apos;&apos;,
-      name: &apos;Layout&apos;,
-      component: Layout,
-      redirect: &apos;/&apos;,
-      children: [
+</code></pre><h2 id="&#x4F7F;&#x7528;&#x7EC4;&#x4EF6;">&#x4F7F;&#x7528;&#x7EC4;&#x4EF6;</h2>
+<pre><code>&lt;FromSwitch v-model=&quot;sex&quot; :options=&quot;{
+      title: &apos;&#x6027;&#x522B;&apos;,
+      defaultValue: sex,
+      list: [
         {
-          path: &apos;/&apos;,                                                    // &#x8DEF;&#x5F84;
-          name: &apos;index&apos;,                                                // &#x7EC4;&#x4EF6;&#x540D;
-          nameText: &apos;&#x9996;&#x9875;&apos;,                                                // &#x5E95;&#x90E8;&#x663E;&#x793A;&#x7684;&#x6587;&#x6848;
-          icon: require(&apos;./assets/images/icon_home_n@3x.png&apos;),            // &#x9ED8;&#x8BA4;&#x56FE;&#x6807;
-          iconActive: require(&apos;./assets/images/icon_home_h@3x.png&apos;),    // &#x6FC0;&#x6D3B;&#x56FE;&#x6807;
-          alwaysShow: true,                                                // &#x662F;&#x5426;&#x5728;&#x5E95;&#x90E8;&#x663E;&#x793A;
-          component: () =&gt; import(&apos;./views/index/index.vue&apos;)            // &#x5BF9;&#x5E94;View
+            name: &apos;&#x7537;&apos;,
+            value: 1,
+            icon: require(&apos;../../assets/images/icon_male_n@3x.png&apos;),
+            activeIcon: require(&apos;../../assets/images/icon_male_h@3x.png&apos;)
         },
-        ...
+        {
+            name: &apos;&#x5973;&apos;,
+            value: 2,
+            icon: require(&apos;../../assets/images/icon_female_n@3x.png&apos;),
+            activeIcon: require(&apos;../../assets/images/icon_female_h@3x.png&apos;)
+        }
       ]
-    }
-  ]
-})
-</code></pre>
+    }&quot;&gt;&lt;/FromSwitch&gt;
+</code></pre><h2 id="&#x53C2;&#x6570;&#x8BF4;&#x660E;">&#x53C2;&#x6570;&#x8BF4;&#x660E;</h2>
+<pre><code>options = {
+    title: String                           =&gt; &#x6807;&#x9898;
+    defaultValue: String || Number          =&gt; &#x9ED8;&#x8BA4;&#x9009;&#x4E2D;&#x7684;&#x503C;
+    list: [
+        name: String                        =&gt; &#x67D0;&#x4E00;&#x9879;&#x540D;&#x79F0;
+        value: String || Number             =&gt; &#x67D0;&#x4E00;&#x9879;&#x7684;&#x503C;
+        icon&#xFF1A; String                        =&gt; &#x672A;&#x6FC0;&#x6D3B;&#x56FE;&#x6807;&#x5730;&#x5740;
+        activeIcon&#xFF1A; String                    =&gt; &#x6FC0;&#x6D3B;&#x56FE;&#x6807;&#x5730;&#x5740;
+    ]
+}
+</code></pre><h3 id="demo">demo</h3>
+<p><a href="https://yinmrsir.github.io/vue-SocialApp/#/join" target="_blank">https://yinmrsir.github.io/vue-SocialApp/#/join</a></p>
+
                                 
                                 </section>
                             
@@ -289,8 +299,12 @@ export default {
 
             
                 
+                <a href="fromInput.html" class="navigation navigation-prev " aria-label="Previous page: FromInput">
+                    <i class="fa fa-angle-left"></i>
+                </a>
                 
-                <a href="navtab.html" class="navigation navigation-next navigation-unique" aria-label="Next page: NavTab">
+                
+                <a href="fromSelect.html" class="navigation navigation-next " aria-label="Next page: FromSelect">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -301,7 +315,7 @@ export default {
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Footer","level":"1.2.1","depth":2,"next":{"title":"NavTab","level":"1.2.2","depth":2,"path":"doc/use/navtab.md","ref":"doc/use/navtab.md","articles":[]},"previous":{"title":"组件","level":"1.2","depth":1,"ref":"","articles":[{"title":"Footer","level":"1.2.1","depth":2,"path":"doc/use/footer.md","ref":"doc/use/footer.md","articles":[]},{"title":"NavTab","level":"1.2.2","depth":2,"path":"doc/use/navtab.md","ref":"doc/use/navtab.md","articles":[]},{"title":"FromInput","level":"1.2.3","depth":2,"path":"doc/use/fromInput.md","ref":"doc/use/fromInput.md","articles":[]},{"title":"FromSwitch","level":"1.2.4","depth":2,"path":"doc/use/fromSwitch.md","ref":"doc/use/fromSwitch.md","articles":[]},{"title":"FromSelect","level":"1.2.5","depth":2,"path":"doc/use/fromSelect.md","ref":"doc/use/fromSelect.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"doc/use/footer.md","mtime":"2019-03-29T07:25:55.732Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-04-01T08:19:20.759Z"},"basePath":"../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"FromSwitch","level":"1.2.4","depth":2,"next":{"title":"FromSelect","level":"1.2.5","depth":2,"path":"doc/use/fromSelect.md","ref":"doc/use/fromSelect.md","articles":[]},"previous":{"title":"FromInput","level":"1.2.3","depth":2,"path":"doc/use/fromInput.md","ref":"doc/use/fromInput.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"doc/use/fromSwitch.md","mtime":"2019-04-01T08:18:59.413Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-04-01T08:19:20.759Z"},"basePath":"../..","book":{"language":""}});
         });
     </script>
 </div>

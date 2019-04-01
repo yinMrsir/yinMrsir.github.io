@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e23efb7-9266-4af5-b6a9-f9a497c902b0" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/fromInput.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/fromInput.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/fromSelect.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/fromSelect.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/fromSwitch.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/fromSwitch.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_female_h@3x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_female_n@3x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_male_h@3x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_male_n@3x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/bottomModal/bottomModal.vue" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/fromInput/fromInput.vue" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/fromSelect/fromSelect.vue" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/fromSwitch/fromSwitch.vue" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/.gitignore" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/footer.html" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/footer.html" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/navtab.html" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/navtab.html" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/index.html" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/index.html" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/package.json" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/package.json" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/search_index.json" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/search_index.json" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/css/colorUi.scss" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/css/colorUi.scss" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/css/reset.scss" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/css/reset.scss" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/index.js" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/index.js" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/join/join.vue" afterPath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/join/join.vue" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,12 +39,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+            <state relative-caret-position="270">
+              <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vue-sociaApp-doc/doc/use/footer.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -82,7 +116,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,7 +128,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -105,6 +139,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\yinchunyu\H5\yinMrsir.github.io\vue-sociaApp-doc" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\yinchunyu\H5\yinMrsir.github.io\vue-SocialApp" />
     </key>
@@ -136,27 +173,27 @@
       <updated>1553837123375</updated>
       <workItem from="1553837125542" duration="206000" />
       <workItem from="1553837680251" duration="88000" />
-      <workItem from="1553845227054" duration="74000" />
+      <workItem from="1553845227054" duration="155000" />
+      <workItem from="1554106792936" duration="54000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="368000" />
+    <option name="totallyTimeSpent" value="503000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -179,8 +216,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue-sociaApp-doc/doc/use/footer.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
