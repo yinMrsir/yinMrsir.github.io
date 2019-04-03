@@ -3,6 +3,140 @@
   <component name="ChangeListManager">
     <list default="true" id="9e23efb7-9266-4af5-b6a9-f9a497c902b0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/.browserslistrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/.eslintrc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/footer.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/footer.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/fromInput.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/fromInput.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/fromSelect.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/fromSelect.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/fromSwitch.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/fromSwitch.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/fromTextArea.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/fromTextArea.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/fromUploadImg.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/fromUploadImg.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/gonggelist.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/gonggelist.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/loadings.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/loadings.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/menulist.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/menulist.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/navtab.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/navtab.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/silder.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/silder.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/fonts/fontawesome/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/fonts/fontawesome/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/fonts/fontawesome/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/fonts/fontawesome/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/fonts/fontawesome/fontawesome-webfont.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/gitbook-plugin-fontsettings/fontsettings.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/gitbook-plugin-fontsettings/website.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/gitbook-plugin-highlight/ebook.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/gitbook-plugin-highlight/website.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/gitbook-plugin-lunr/lunr.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/gitbook-plugin-lunr/search-lunr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/gitbook-plugin-search/lunr.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/gitbook-plugin-search/search-engine.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/gitbook-plugin-search/search.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/gitbook-plugin-search/search.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/gitbook-plugin-sharing/buttons.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/gitbook.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/images/apple-touch-icon-precomposed-152.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/images/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/gitbook/theme.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/package-lock.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/postcss.config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/public/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/public/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/search_index.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/App.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/css/colorUi.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/css/element.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/css/icon.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/css/layout.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/css/reset.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_activity.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_beauty_h@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_beauty_n@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_date@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_female_h@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_female_n@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_gifts@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_heart@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_home_h@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_home_n@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_male_h@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_male_n@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_mark@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_mine_h@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_mine_n@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_moment_h@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/icon_moment_n@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/my/icon_counts@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/my/icon_focus_h@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/my/icon_focus_n@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/my/icon_heart@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/my/icon_invite@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/my/icon_message_big@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/my/icon_moment@3x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/my/icon_money@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/my/icon_order@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/my/icon_share@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/my/icon_superman@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/my/icon_tips@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/bottomModal/bottomModal.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/footer/footer.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/fromGrop/fromGrop.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/fromInput/fromInput.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/fromSelect/fromSelect.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/fromSwitch/fromSwitch.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/fromTextArea/fromTextArea.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/fromUploadImg/fromUploadImg.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/gonggelist/gonggelist.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/loadings/loading.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/menulist/menulist.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/navtab/navTab.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/scrolls/scrolls.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/silder/silder.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/mock/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/mock/indexdata/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/permission.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/router.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/store.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/appointment/appointment.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/belle/belle.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/belle/components/item.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/components/activityItem.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/components/dynamicItem.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/components/userComment.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/components/userItem.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/dynamic/dynamic.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/heartbeat/components/aid.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/heartbeat/components/gen.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/heartbeat/components/heartbeat.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/heartbeat/heartbeat.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/index/components/ilist.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/index/components/swiperbox.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/index/index.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/join/join.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/layout.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/my/components/header.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/my/my.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/user-detail/components/userDetailFooter.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/user-detail/components/userDynamic.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/user-detail/components/userinfo.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/views/user-detail/userDetail.vue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/vue.config.js" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -100,8 +234,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\yinchunyu\H5\yinMrsir.github.io\vue-SocialApp" />
       <recent name="D:\yinchunyu\H5\yinMrsir.github.io\vue-sociaApp-doc" />
+      <recent name="D:\yinchunyu\H5\yinMrsir.github.io\vue-SocialApp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\yinchunyu\H5\yinMrsir.github.io\vue-SocialApp" />
@@ -137,24 +271,24 @@
       <workItem from="1553845227054" duration="155000" />
       <workItem from="1554106792936" duration="841000" />
       <workItem from="1554198776976" duration="120000" />
-      <workItem from="1554265502813" duration="220000" />
+      <workItem from="1554265502813" duration="345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3001000" />
+    <option name="totallyTimeSpent" value="3126000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18071654" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18071654" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -248,6 +382,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue-sociaApp-doc/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding />
         </state>
       </provider>
