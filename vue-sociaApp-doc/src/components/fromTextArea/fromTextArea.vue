@@ -1,9 +1,8 @@
 <template>
-  <div class="cu-form-group">
-    <div class='title'>{{options.title}}</div>
-    <input type="text" :placeholder="options.placeholder || '请输入' + options.title"
-           :class="[$style.input, 'radius', options.textAlign === 'right' ? $style.textright : '']" v-model="inputValue"
-           @input="updateValue"/>
+  <div :class="['cu-form-group top', $style.textareabox]">
+    <div class="title" v-if="options.title">{{options.title}}</div>
+    <textarea :placeholder="options.placeholder" maxlength="-1" :disabled="options.disabled"  v-model="inputValue"
+              @input="updateValue"></textarea>
   </div>
 </template>
 
@@ -31,11 +30,9 @@
 </script>
 
 <style lang="scss" module>
-  .input {
-    border: 0;
-  }
-
-  .textright {
-    text-align: right;
+  .textareabox{
+    textarea{
+      border: none;
+    }
   }
 </style>

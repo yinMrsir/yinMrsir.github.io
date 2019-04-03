@@ -3,32 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9e23efb7-9266-4af5-b6a9-f9a497c902b0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/css/app.8e900bd4.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/css/chunk-05ad8398.28d97ad3.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/css/chunk-10aa0640.ac974eef.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/css/chunk-164a3950.46e15e50.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/css/chunk-60a06d1a.4d962c66.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/css/chunk-e51d105a.d2e28979.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/css/chunk-vendors.699082c4.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/app.ccf278ea.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/app.ccf278ea.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-05ad8398.36de78f7.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-05ad8398.36de78f7.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-10aa0640.7cb10dfc.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-10aa0640.7cb10dfc.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-164a3950.e6cae108.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-164a3950.e6cae108.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-2d2378c4.6dd2cbef.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-2d2378c4.6dd2cbef.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-60a06d1a.aa151d46.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-60a06d1a.aa151d46.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-ab0d78b2.0bda6493.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-ab0d78b2.0bda6493.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-e51d105a.ec1f8259.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-e51d105a.ec1f8259.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-vendors.afcfd842.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-vendors.afcfd842.js.map" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -105,6 +79,11 @@
               <item name="yinMrsir.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="yinMrsir.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="yinMrsir.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yinMrsir.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="vue-SocialApp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -120,12 +99,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\yinchunyu\H5\yinMrsir.github.io\vue-SocialApp" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\yinchunyu\H5\yinMrsir.github.io\vue-SocialApp" />
       <recent name="D:\yinchunyu\H5\yinMrsir.github.io\vue-sociaApp-doc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\yinchunyu\H5\yinMrsir.github.io\vue-SocialApp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -158,24 +137,24 @@
       <workItem from="1553845227054" duration="155000" />
       <workItem from="1554106792936" duration="841000" />
       <workItem from="1554198776976" duration="120000" />
-      <workItem from="1554265502813" duration="16000" />
+      <workItem from="1554265502813" duration="220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2797000" />
+    <option name="totallyTimeSpent" value="3001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18071654" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -258,6 +237,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vue-SocialApp/css/app.8e900bd4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue-SocialApp/css/app.db60b05b.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
