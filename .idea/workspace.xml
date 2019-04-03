@@ -3,34 +3,32 @@
   <component name="ChangeListManager">
     <list default="true" id="9e23efb7-9266-4af5-b6a9-f9a497c902b0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/css/app.7ed749b8.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-SocialApp/css/app.8e900bd4.css" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/css/chunk-05ad8398.28d97ad3.css" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/css/chunk-10aa0640.ac974eef.css" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/css/chunk-164a3950.46e15e50.css" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/css/chunk-60a06d1a.4d962c66.css" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/css/chunk-e51d105a.d2e28979.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/css/chunk-vendors.b44ba39a.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-SocialApp/css/chunk-vendors.699082c4.css" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/app.1b942e71.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/app.1b942e71.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/app.ccf278ea.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/app.ccf278ea.js.map" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-05ad8398.36de78f7.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-05ad8398.36de78f7.js.map" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-10aa0640.7cb10dfc.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-10aa0640.7cb10dfc.js.map" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-164a3950.e6cae108.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-164a3950.e6cae108.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-256ccf12.01790b93.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-256ccf12.01790b93.js.map" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-2d2378c4.6dd2cbef.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-2d2378c4.6dd2cbef.js.map" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-60a06d1a.aa151d46.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-60a06d1a.aa151d46.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-ab0d78b2.bae25bbe.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-ab0d78b2.bae25bbe.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-ab0d78b2.0bda6493.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-ab0d78b2.0bda6493.js.map" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-e51d105a.ec1f8259.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-e51d105a.ec1f8259.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-vendors.94743be3.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-vendors.94743be3.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-vendors.afcfd842.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-SocialApp/js/chunk-vendors.afcfd842.js.map" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,7 +41,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -99,6 +97,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,7 +110,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,12 +120,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\yinchunyu\H5\yinMrsir.github.io\vue-SocialApp" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\yinchunyu\H5\yinMrsir.github.io\vue-SocialApp" />
       <recent name="D:\yinchunyu\H5\yinMrsir.github.io\vue-sociaApp-doc" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\yinchunyu\H5\yinMrsir.github.io\vue-SocialApp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -159,12 +157,13 @@
       <workItem from="1553837680251" duration="88000" />
       <workItem from="1553845227054" duration="155000" />
       <workItem from="1554106792936" duration="841000" />
-      <workItem from="1554198776976" duration="14000" />
+      <workItem from="1554198776976" duration="120000" />
+      <workItem from="1554265502813" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2675000" />
+    <option name="totallyTimeSpent" value="2797000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -199,6 +198,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vue-SocialApp/css/app.8e900bd4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -247,6 +254,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue-SocialApp/css/app.8e900bd4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
