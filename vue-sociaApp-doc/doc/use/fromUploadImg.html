@@ -310,7 +310,57 @@
                                 <section class="normal markdown-section">
                                 
                                 <h1 id="fromuploadimg">FromUploadImg</h1>
-<p>&#x6587;&#x6863;&#x5F85;&#x66F4;&#x65B0;</p>
+<p>&#x8868;&#x5355;&#x56FE;&#x7247;&#x4E0A;&#x4F20;&#x7EC4;&#x4EF6;</p>
+<h2 id="&#x5F15;&#x7528;&#x7EC4;&#x4EF6;">&#x5F15;&#x7528;&#x7EC4;&#x4EF6;</h2>
+<pre><code>import {FromUploadImg} from &apos;@/components&apos;
+
+export default {
+    components: {
+      FromUploadImg
+    }
+}
+</code></pre><h2 id="&#x4F7F;&#x7528;&#x7EC4;&#x4EF6;">&#x4F7F;&#x7528;&#x7EC4;&#x4EF6;</h2>
+<pre><code>&lt;FromUploadImg v-model=&quot;imgList&quot; :multiple=&quot;true&quot; :max=&quot;4&quot;&gt;&lt;/FromUploadImg&gt;
+</code></pre><h2 id="&#x53C2;&#x6570;&#x8BF4;&#x660E;">&#x53C2;&#x6570;&#x8BF4;&#x660E;</h2>
+<table>
+  <thead>
+    <tr>
+      <th>&#x53C2;&#x6570;</th>
+      <th align="left">&#x7C7B;&#x578B;</th>
+      <th>&#x793A;&#x4F8B;</th>
+      <th>&#x8BF4;&#x660E;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>v-model</td>
+      <td align="left">Array</td>
+      <td>[]</td>
+      <td>&#x7ED1;&#x5B9A;&#x503C;&#xFF0C;&#x7528;&#x4E8E;&#x63A5;&#x6536;&#x7EC4;&#x4EF6;&#x8FD4;&#x56DE;&#x6570;&#x636E;</td>
+    </tr>
+    <tr>
+      <td>multiple</td>
+      <td align="left">Boolean</td>
+      <td>false</td>
+      <td>&#x662F;&#x5426;&#x53EF;&#x4EE5;&#x591A;&#x9009;</td>
+    </tr>
+    <tr>
+      <td>max</td>
+      <td align="left">Number</td>
+      <td>4</td>
+      <td>&#x4E0A;&#x4F20;&#x56FE;&#x7247;&#x6700;&#x5927;&#x6570;&#x91CF;</td>
+    </tr>
+    <tr>
+      <td>url</td>
+      <td align="left">String</td>
+      <td>&apos;http://www.yinchunyu.com&apos;</td>
+      <td>&#x5982;&#x679C;&#x914D;&#x7F6E;&#x4E86;&#x6B64;&#x53C2;&#x6570;&#x4F1A;&#x901A;&#x8FC7;ajax&#x4E0A;&#x4F20; &#x8868;&#x5355;&#x63D0;&#x4EA4;&#x53C2;&#x6570;&#xFF1A;file</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="demo">demo</h3>
+<p><a href="https://yinmrsir.github.io/vue-SocialApp/#/join" target="_blank">https://yinmrsir.github.io/vue-SocialApp/#/join</a></p>
 
                                 
                                 </section>
@@ -354,7 +404,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"FromUploadImg","level":"1.2.7","depth":2,"next":{"title":"Silder","level":"1.2.8","depth":2,"path":"doc/use/silder.md","ref":"doc/use/silder.md","articles":[]},"previous":{"title":"FromTextArea","level":"1.2.6","depth":2,"path":"doc/use/fromTextArea.md","ref":"doc/use/fromTextArea.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"doc/use/fromUploadImg.md","mtime":"2019-04-03T04:27:47.578Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-04-03T04:28:12.927Z"},"basePath":"../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"FromUploadImg","level":"1.2.7","depth":2,"next":{"title":"Silder","level":"1.2.8","depth":2,"path":"doc/use/silder.md","ref":"doc/use/silder.md","articles":[]},"previous":{"title":"FromTextArea","level":"1.2.6","depth":2,"path":"doc/use/fromTextArea.md","ref":"doc/use/fromTextArea.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"doc/use/fromUploadImg.md","mtime":"2019-04-03T07:14:03.838Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-04-03T07:21:39.643Z"},"basePath":"../..","book":{"language":""}});
         });
     </script>
 </div>

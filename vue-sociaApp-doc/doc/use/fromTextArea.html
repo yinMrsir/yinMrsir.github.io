@@ -310,7 +310,53 @@
                                 <section class="normal markdown-section">
                                 
                                 <h1 id="fromtextarea">FromTextArea</h1>
-<p>&#x6587;&#x6863;&#x5F85;&#x66F4;&#x65B0;</p>
+<p>&#x8868;&#x5355;TextArea&#x7EC4;&#x4EF6;</p>
+<h2 id="&#x5F15;&#x7528;&#x7EC4;&#x4EF6;">&#x5F15;&#x7528;&#x7EC4;&#x4EF6;</h2>
+<pre><code>import {FromTextArea} from &apos;@/components&apos;
+
+export default {
+    components: {
+      FromTextArea
+    }
+}
+</code></pre><h2 id="&#x4F7F;&#x7528;&#x7EC4;&#x4EF6;">&#x4F7F;&#x7528;&#x7EC4;&#x4EF6;</h2>
+<pre><code>&lt;FromTextArea v-model=&quot;say&quot; :options=&quot;{
+      title: &apos;&#x5A92;&#x4E3B;&#x8BF4;&apos;,
+      disabled: false,
+      placeholder: &apos;&#x4ECB;&#x7ECD;&#x4E0B;&#x81EA;&#x5DF1;&#xFF0C;&#x8BA9;&#x91D1;&#x4E3B;&#x66F4;&#x4E86;&#x89E3;&#x4F60;~&apos;
+    }&quot;&gt;&lt;/FromTextArea&gt;
+</code></pre><h2 id="&#x53C2;&#x6570;&#x8BF4;&#x660E;">&#x53C2;&#x6570;&#x8BF4;&#x660E;</h2>
+<table>
+  <thead>
+    <tr>
+      <th>&#x53C2;&#x6570;</th>
+      <th align="left">&#x7C7B;&#x578B;</th>
+      <th>&#x793A;&#x4F8B;</th>
+      <th>&#x8BF4;&#x660E;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>v-model</td>
+      <td align="left">String</td>
+      <td>&apos;say&apos;</td>
+      <td>&#x7ED1;&#x5B9A;&#x503C;&#xFF0C;&#x7528;&#x4E8E;&#x63A5;&#x6536;&#x7EC4;&#x4EF6;&#x8FD4;&#x56DE;&#x6570;&#x636E;</td>
+    </tr>
+    <tr>
+      <td>options</td>
+      <td align="left">Object</td>
+      <td>
+          title: String                   =&gt; &#x6807;&#x9898; <br>
+        placeholder: String             =&gt; &#x6587;&#x672C;&#x6846;&#x9ED8;&#x8BA4;&#x6587;&#x6848;  <br>
+        disabled: Boolean                  =&gt; &#x662F;&#x5426;&#x7981;&#x7528;
+      </td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="demo">demo</h3>
+<p><a href="https://yinmrsir.github.io/vue-SocialApp/#/join" target="_blank">https://yinmrsir.github.io/vue-SocialApp/#/join</a></p>
 
                                 
                                 </section>
@@ -354,7 +400,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"FromTextArea","level":"1.2.6","depth":2,"next":{"title":"FromUploadImg","level":"1.2.7","depth":2,"path":"doc/use/fromUploadImg.md","ref":"doc/use/fromUploadImg.md","articles":[]},"previous":{"title":"FromSelect","level":"1.2.5","depth":2,"path":"doc/use/fromSelect.md","ref":"doc/use/fromSelect.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"doc/use/fromTextArea.md","mtime":"2019-04-03T04:27:43.196Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-04-03T04:28:12.927Z"},"basePath":"../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"FromTextArea","level":"1.2.6","depth":2,"next":{"title":"FromUploadImg","level":"1.2.7","depth":2,"path":"doc/use/fromUploadImg.md","ref":"doc/use/fromUploadImg.md","articles":[]},"previous":{"title":"FromSelect","level":"1.2.5","depth":2,"path":"doc/use/fromSelect.md","ref":"doc/use/fromSelect.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"doc/use/fromTextArea.md","mtime":"2019-04-03T07:14:07.071Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-04-03T07:21:39.643Z"},"basePath":"../..","book":{"language":""}});
         });
     </script>
 </div>

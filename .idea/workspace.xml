@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/.browserslistrc" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/.eslintrc.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/babel.config.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/footer.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/footer.md" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/doc/use/fromInput.html" afterPath="" />
@@ -94,7 +95,6 @@
       <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/assets/images/my/icon_tips@2x.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/bottomModal/bottomModal.vue" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/footer/footer.vue" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/fromGrop/fromGrop.vue" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/fromInput/fromInput.vue" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/fromSelect/fromSelect.vue" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vue-sociaApp-doc/src/components/fromSwitch/fromSwitch.vue" afterPath="" />
@@ -206,6 +206,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,16 +214,10 @@
               <item name="yinMrsir.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="yinMrsir.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="yinMrsir.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yinMrsir.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="vue-SocialApp" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,12 +266,13 @@
       <workItem from="1553845227054" duration="155000" />
       <workItem from="1554106792936" duration="841000" />
       <workItem from="1554198776976" duration="120000" />
-      <workItem from="1554265502813" duration="345000" />
+      <workItem from="1554265502813" duration="458000" />
+      <workItem from="1554276105780" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3126000" />
+    <option name="totallyTimeSpent" value="3279000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -311,7 +307,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vue-SocialApp/css/app.8e900bd4.css">
+    <entry file="file://$PROJECT_DIR$/vue-sociaApp-doc/doc/use/footer.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -319,6 +315,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vue-sociaApp-doc/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue-SocialApp/css/app.8e900bd4.css" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -355,13 +360,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue-sociaApp-doc/doc/use/footer.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vue-SocialApp/css/app.ba0a5455.css" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -370,15 +368,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue-SocialApp/css/app.8e900bd4.css">
+    <entry file="file://$PROJECT_DIR$/vue-SocialApp/css/app.8e900bd4.css" />
+    <entry file="file://$PROJECT_DIR$/vue-SocialApp/css/app.db60b05b.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue-SocialApp/css/app.db60b05b.css">
+    <entry file="file://$PROJECT_DIR$/vue-sociaApp-doc/doc/use/footer.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -389,7 +387,7 @@
     <entry file="file://$PROJECT_DIR$/vue-sociaApp-doc/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding />
         </state>
       </provider>
