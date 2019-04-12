@@ -4,20 +4,18 @@
       <img src="" alt="">
       <div :class="[$style.right, 'justify-center padding-top-xs padding-bottom-xs']">
         <div :class="$style.namebox">
-          <h2>许惠纶</h2>
+          <h2>{{item.userName}}</h2>
           <span>19:37</span>
         </div>
         <div :class="$style.info">
-          <span>女 | 20岁</span>
+          <span>女 | {{item.age}}岁</span>
           <span>4.3km</span>
         </div>
       </div>
     </router-link>
-    <div :class="$style.textcontent">今晚在魅力四射玩的很嗨。又认识了一群新的朋友，晚上的街舞表演很精彩，2个帅哥哥唱歌非常棒，很喜欢哦。</div>
+    <div :class="$style.textcontent">{{item.info}}</div>
     <div :class="$style.imglist">
-      <img src="https://image-static.segmentfault.com/196/845/1968451495-5c942d7638da6_articlex" alt="">
-      <img src="https://image-static.segmentfault.com/196/845/1968451495-5c942d7638da6_articlex" alt="">
-      <img src="https://image-static.segmentfault.com/196/845/1968451495-5c942d7638da6_articlex" alt="">
+      <div :style="'background: url('+item+') no-repeat center; background-size: cover;'" v-for="(item,index) in item.imgs" :key="item" @click="previewImage(index)"></div>
     </div>
     <div :class="$style.itemfooter">
       <ul>
@@ -29,6 +27,28 @@
     </div>
   </div>
 </template>
+
+<script>
+  export default {
+    props: {
+      item: {
+        type: Object,
+        default() {
+          return {}
+        }
+      }
+    },
+    components: {},
+    methods: {
+      previewImage(index) {
+        this.$previewImage.show({
+          index,
+          urls: this.item.imgs
+        })
+      }
+    }
+  }
+</script>
 
 <style lang="scss" module>
   @import "../../assets/css/element.scss";
@@ -75,9 +95,10 @@
     }
     .imglist {
       @include list(row);
-      justify-content: center;
+      justify-content: start;
       padding-top: 20px;
-      img {
+      padding-left: 30px;
+      >div {
         width: 220px;
         height: 180px;
         background: rgba(220, 220, 220, 1);
