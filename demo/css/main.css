@@ -87,6 +87,11 @@ body {
   margin-right: 2%;
 }
 
+.header-top .search-box form {
+  display: flex;
+  width: 100%;
+}
+
 .header-top .search-box input {
   background: none;
   border: none;
@@ -493,6 +498,13 @@ body {
 
 .page-box span {
   padding: 0 2rem;
+}
+
+.search-top{
+  font-weight: bold;
+  font-size: 1.6rem;
+  padding: 2% 2% 2% 0;
+  border-bottom: #c2c1c1 solid 1px;
 }
 
 /* 屏幕小于800 */
