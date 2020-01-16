@@ -500,14 +500,14 @@ body {
   padding: 0 2rem;
 }
 
-.search-top{
+.search-top {
   font-weight: bold;
   font-size: 1.6rem;
   padding: 2% 2% 2% 0;
   border-bottom: #c2c1c1 solid 1px;
 }
 
-.search-nav-box{
+.search-nav-box {
   width: 80%;
   position: absolute;
   left: 2%;
@@ -528,14 +528,44 @@ body {
   float: left;
 }
 
-.search-nav-box .search-icon{
-  background:#fff url("../images/search_icon.png") no-repeat center center;
+.search-nav-box .search-icon {
+  background: #fff url("../images/search_icon.png") no-repeat center center;
   outline: none;
   width: 36px;
   height: 36px;
   float: left;
   margin-left: 5px;
 }
+
+.specialist-list ul.con2 {
+  display: none;
+}
+
+@media screen and (min-width: 1180px) {
+  .box {
+    height: 210px;
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .specialist-list ul.con2 {
+    display: inline-block;
+  }
+
+  .specialist-list {
+    white-space: nowrap;
+  }
+
+  .specialist-list ul {
+    display: inline-block;
+    width: 1140px;
+  }
+
+  .specialist-list ul li {
+    float: left;
+  }
+}
+
 
 /* 屏幕小于800 */
 @media only screen and (max-width: 50em) {
@@ -623,7 +653,7 @@ body {
     display: none;
   }
 
-  .search-nav-box{
+  .search-nav-box {
     display: block;
   }
 }
